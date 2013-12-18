@@ -1,0 +1,5 @@
+/Users/jasperfontaine/Work/Dev/CG/cgrd-houry-springboot-skeleton/src/test/java/com/cgrd/houry/persistence/domain/fixture/PersistenceFixture.java
+/Users/jasperfontaine/Work/Dev/CG/cgrd-houry-springboot-skeleton/src/test/java/com/cgrd/houry/persistence/integration/AbstractIntegrationTests.java
+/Users/jasperfontaine/Work/Dev/CG/cgrd-houry-springboot-skeleton/src/test/java/com/cgrd/houry/persistence/domain/fixture/JPAAssertions.java
+/Users/jasperfontaine/Work/Dev/CG/cgrd-houry-springboot-skeleton/src/test/java/com/cgrd/houry/persistence/integration/ProjectRepositoryTests.java
+/Users/jasperfontaine/Work/Dev/CG/cgrd-houry-springboot-skeleton/src/test/java/com/cgrd/houry/persistence/integration/SchemaTests.java
